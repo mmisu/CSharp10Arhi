@@ -1,7 +1,7 @@
 # CSharp10Arhi
 Implicit using
 
-In *.csproj 
+In *.csproj file
 
 ```XML
 <ItemGroup>
@@ -9,5 +9,4 @@ In *.csproj
    <Using Include="System.Text" />
    <Using Include="System.Math" Static="true" /> 
  <ItemGroup>
-
-
+```
