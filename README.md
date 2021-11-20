@@ -1,8 +1,9 @@
 # CSharp10Arhi
 Implicit using
 
-In *csproj 
+In *.csproj 
 
+```XML
 <ItemGroup>
    <Using Remove="System.Net.Http"/>
    <Using Include="System.Text" />
